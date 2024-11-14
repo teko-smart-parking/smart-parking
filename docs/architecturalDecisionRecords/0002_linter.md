@@ -10,7 +10,7 @@ Für das Projekt muss ein Standard her nach was die Dokumente fromatiert werden.
 
 ## Entscheidung
 
-Wir benutzen Prettier - EsLint.
+Wir benutzen das npm package markdownlint-cli.
 
 ## Konsequenzen
 
