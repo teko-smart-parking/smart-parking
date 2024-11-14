@@ -12,7 +12,8 @@
 
 [Entscheidung (decision): Beschreibung der Entscheidung, die im Rahmen des vorher beschriebenen Kontexts erfolgt ist.]
 
-
 ## Konsequenzen
 
 [Auflistung aller positiven und negativen Konsequenzen.]
+
+TEST
