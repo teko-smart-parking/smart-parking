@@ -37,5 +37,3 @@ Wissen aufgebaut werden und zum Teil existierende Python- und
 Bash-Skripte ersetzt werden. Weiterhin m�ssen wir uns auf die zu
 nutzenden Labels  f�r Issues einigen und anschlie�end alte Labels
 durch neue ersetzen.
-
-hall
