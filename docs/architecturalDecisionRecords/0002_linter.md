@@ -12,7 +12,6 @@ Für das Projekt muss ein Standard her nach was die Dokumente fromatiert werden.
 
 Wir benutzen Prettier - EsLint.
 
-
 ## Konsequenzen
 
 Gut ist dass alle Files gleich formatiert daher kommen.
