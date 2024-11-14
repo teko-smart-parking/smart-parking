@@ -12,6 +12,7 @@ von Software geeignet ist.
 Betrachtet wurden hierbei Gitlab und Github.
 
 Folgende Funktionen benötigen wir:
+
 - Code Repository mit Versionskontrolle
 - CI / CD
 - Collaborations tool wie Kanban boards
@@ -27,5 +28,6 @@ Github ist ein kostenloses Tool und unterstützt alle Funktionen die wir benöti
 
 Aufgrund dieser Entscheidung muss im Team die Aktzeptanz für das Tool da sein.
 Alle im Team müssen sich mit den verschiedenen Features von Github auseinandersetzen:
+
 - Repository Clonen
 - Github Actions
