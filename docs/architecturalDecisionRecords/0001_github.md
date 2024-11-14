@@ -20,7 +20,8 @@ Folgende Funktionen benötigen wir:
 
 Wir haben uns für Github entschieden.
 Dafür spricht, dass sich ein paar damit bereits auskennen.
-Es ist ein kostenloses Tool.
+Bei Gitlab kennt sich sozusagen niemand aus.
+Github ist ein kostenloses Tool und unterstützt alle Funktionen die wir benötigen.
 
 ## Konsequenzen
 
