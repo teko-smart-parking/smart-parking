@@ -15,5 +15,3 @@
 ## Konsequenzen
 
 [Auflistung aller positiven und negativen Konsequenzen.]
-
-TEST
