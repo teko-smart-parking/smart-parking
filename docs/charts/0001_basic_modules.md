@@ -1,3 +1,6 @@
+# Basic Modules
+
+```mermaid
 flowchart TB
 %% Domain (Zentrales Modul)
 subgraph Domain ["Domain (Zentrale Logik)"]
@@ -25,3 +28,4 @@ end
     %% Verbindungen
     UserAccess --> Domain
     Domain --> ExternalSystems
+```
