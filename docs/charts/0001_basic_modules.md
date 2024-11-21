@@ -1,3 +1,5 @@
+# Basic Modules
+
 ```mermaid
 flowchart TB
 %% Domain (Zentrales Modul)
