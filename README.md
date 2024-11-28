@@ -1,5 +1,7 @@
 # smart-parking
 
+[![Validate Markdown Files](https://github.com/teko-smart-parking/smart-parking/actions/workflows/validate-md-files.yml/badge.svg)](https://github.com/teko-smart-parking/smart-parking/actions/workflows/validate-md-files.yml)
+
 ## docs
 
 ### linting
