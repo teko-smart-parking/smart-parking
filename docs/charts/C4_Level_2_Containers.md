@@ -10,15 +10,15 @@ architecture-beta
     service gui_app(cloud)[GUI App] in application
     service msg_brooker(cloud)[Msg Brooker] in application
 
-    service smarp_user(cloud)[SMARP User]
+    service smarp_user(internet)[SMARP User]
 
-    service sensor_system(cloud)[Sensor System]
+    service sensor_system(internet)[Sensor System]
 
-    smarp_user:L --> R:gui_app
-    msg_brooker:L <-- R:sensor_system
-    api:L <-- R:msg_brooker
-    gui_app:L --> R:api
+    smarp_user:L >--> R:gui_app
+    msg_brooker:L <--> R:sensor_system
+    api:L <--> R:msg_brooker
+    gui_app:L >--> R:api
 
-    db:L <-- R:api
+    db:T <--> B:api
 
 ```
