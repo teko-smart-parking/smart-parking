@@ -10,9 +10,8 @@ timeline
           Planung erstellen : Planung Markdown anlegen
 ```
 
-
-
 ## Kurswoche 07
+
 ```mermaid
 timeline
         section Kurswoche 07
