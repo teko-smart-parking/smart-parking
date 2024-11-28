@@ -6,7 +6,8 @@
 ```mermaid
 timeline
         section Kurswoche 06
-          C4 Diagramm in Markdown übertragen : C4 Level 1 : C4 Level 2 : C4 Level 3 A & B
+          C4 Diagramm in Markdown übertragen
+          : C4 Level 1 : C4 Level 2 : C4 Level 3 A & B
           Planung erstellen : Planung Markdown anlegen
 ```
 

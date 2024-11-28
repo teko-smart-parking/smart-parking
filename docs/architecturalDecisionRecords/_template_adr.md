@@ -2,7 +2,8 @@
 
 ## Status
 
-[Status (status): Position im Lebenszyklus der Entscheidung wie "proposed", "accepted", "discarded", "deprecated" oder "superseeded".]
+[Status (status): Position im Lebenszyklus der Entscheidung wie
+"proposed", "accepted", "discarded", "deprecated" oder "superseeded".]
 
 ## Kontext
 
@@ -10,7 +11,8 @@
 
 ## Entscheidung
 
-[Entscheidung (decision): Beschreibung der Entscheidung, die im Rahmen des vorher beschriebenen Kontexts erfolgt ist.]
+[Entscheidung (decision): Beschreibung der Entscheidung,
+die im Rahmen des vorher beschriebenen Kontexts erfolgt ist.]
 
 ## Konsequenzen
 
