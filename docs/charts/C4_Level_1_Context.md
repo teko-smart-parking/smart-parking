@@ -7,8 +7,7 @@ graph TD
     C[Sensor System] -->|communicates with| A
 
     classDef thickBorder stroke-width:5px,stroke:#1;
-
-
+```
 
 
 
