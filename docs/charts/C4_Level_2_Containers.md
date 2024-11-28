@@ -14,10 +14,10 @@ architecture-beta
 
     service sensor_system(internet)[Sensor System]
 
-    smarp_user:L >--> R:gui_app
+    smarp_user:L <--> R:gui_app
     msg_brooker:L <--> R:sensor_system
     api:L <--> R:msg_brooker
-    gui_app:L >--> R:api
+    gui_app:L <--> R:api
 
     db:T <--> B:api
 
