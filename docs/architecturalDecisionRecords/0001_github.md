@@ -6,28 +6,33 @@ Accepted
 
 ## Kontext
 
-Für unser Projekt benötigen wir ein Collaborationsplattform, welche für die entwicklung
-von Software geeignet ist.
+Für unser Projekt benötigen wir eine Plattform, die als zentrales Werkzeug für die Zusammenarbeit im Team und die Versionskontrolle von Code dient. Sie sollte die Entwicklung von Software effizient unterstützen und die Anforderungen an moderne Softwareentwicklung erfüllen.
 
-Betrachtet wurden hierbei Gitlab und Github.
+In Betracht gezogen wurden GitLab und GitHub, wobei folgende Funktionen als essenziell identifiziert wurden:
 
-Folgende Funktionen benötigen wir:
-
-- Code Repository mit Versionskontrolle
-- CI / CD
-- Collaborations tool wie Kanban boards
+- Code-Repository mit Versionskontrolle
+- Unterstützung für Continuous Integration/Continuous Deployment (CI/CD)
+- Kollaborationstools wie Kanban-Boards
 
 ## Entscheidung
 
-Wir haben uns für Github entschieden.
-Dafür spricht, dass sich ein paar damit bereits auskennen.
-Bei Gitlab kennt sich sozusagen niemand aus.
-Github ist ein kostenloses Tool und unterstützt alle Funktionen die wir benötigen.
+Wir haben uns für GitHub entschieden. Die Gründe für diese Entscheidung sind:
+
+- Einige Teammitglieder haben bereits Erfahrung mit GitHub, wodurch die Einarbeitungszeit reduziert wird.
+- GitLab ist im Team weitgehend unbekannt, was eine längere Einarbeitungszeit und höhere Schulungskosten bedeuten würde.
+- GitHub bietet eine kostenlose Nutzung und unterstützt alle erforderlichen Funktionen wie CI/CD, Kollaborationstools und eine starke Versionskontrolle.
 
 ## Konsequenzen
 
-Aufgrund dieser Entscheidung muss im Team die Aktzeptanz für das Tool da sein.
-Alle im Team müssen sich mit den verschiedenen Features von Github auseinandersetzen:
+Positive Konsequenzen:
 
-- Repository Clonen
-- Github Actions
+- Reduzierter Schulungsaufwand dank vorhandener Kenntnisse im Team.
+Kostenloser Zugang zu einer bewährten Plattform mit umfangreichen Funktionen.
+- Nutzung moderner Entwicklungsfeatures wie GitHub Actions für CI/CD.
+
+Negative Konsequenzen:
+
+- Die Akzeptanz und Bereitschaft im Team, GitHub effektiv zu nutzen, ist entscheidend für den Erfolg.
+- Teammitglieder müssen sich mit den spezifischen Features von GitHub vertraut machen, einschließlich:
+   - Repository-Management (z. B. Klonen, Branches, Pull Requests)
+   - Einrichtung und Nutzung von GitHub Actions für CI/CD
