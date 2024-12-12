@@ -2,48 +2,27 @@
 
 ## Mögliche Wörter
 
-Ubiquitous Language for a Smart Parking System
-1. Users and Vehicles:
+Benutzer und Fahrzeuge
+Benutzer: Einzelpersonen, die das Parksystem nutzen.
+Fahrzeug: Das Auto oder Motorrad des Benutzers.
+Fahrzeug-ID: Eindeutiger Identifikator für jedes Fahrzeug im System.
+2. Parkplätze und Einrichtungen
+Parkplatz: Ein einzelner Stellplatz für ein Fahrzeug.
+Parkplatz-ID: Eindeutiger Identifikator für jeden Parkplatz.
+Parkgarage: Eine Einrichtung mit mehreren Parkplätzen.
+Stockwerk: Die spezifische Ebene in einer Parkgarage.
+3. Buchung und Zahlung
+Reservierung: Der Prozess der vorherigen Buchung eines Parkplatzes.
+Reservierungs-ID: Eindeutiger Identifikator für jede Reservierung.
+Gebühr: Der Betrag, den der Benutzer für das Parken bezahlt.
+Zahlung: Der Prozess, bei dem der Benutzer für das Parken bezahlt.
+4. Systemoperationen
+Check-in: Der Prozess des Betretens eines Parkplatzes.
+Check-out: Der Prozess des Verlassens eines Parkplatzes.
+Benachrichtigung: Informationen, die an den Benutzer gesendet werden, wie Erinnerungen oder Warnungen.
+5. Verwaltung und Wartung
+Administrator: Personen, die das System verwalten und warten.
+Wartung: Der Prozess, um die Parkeinrichtungen in gutem Zustand zu halten.
+Fehlerbericht: Ein Bericht über Probleme oder Fehlfunktionen im System.
 
-User: Individuals using the parking system.
-
-Vehicle: The car or motorcycle of the user.
-
-Vehicle ID: Unique identifier for each vehicle in the system.
-
-2. Parking Spaces and Facilities:
-
-Parking Space: A single slot for a vehicle.
-
-Parking Space ID: Unique identifier for each parking space.
-
-Parking Garage: A facility with multiple parking spaces.
-
-Floor: The specific level in a parking garage.
-
-3. Booking and Payment:
-
-Reservation: The process of booking a parking space in advance.
-
-Reservation ID: Unique identifier for each reservation.
-
-Fee: The amount the user pays for parking.
-
-Payment: The process of the user paying for the parking.
-
-4. System Operations:
-
-Check-in: The process of entering a parking space.
-
-Check-out: The process of leaving a parking space.
-
-Notification: Information sent to the user, such as reminders or alerts.
-
-5. Management and Maintenance:
-
-Administrator: Individuals managing and maintaining the system.
-
-Maintenance: The process of keeping the parking facilities in good condition.
-
-Error Report: A report of issues or malfunctions in the system.
 ## In welchem Zusamenhang
