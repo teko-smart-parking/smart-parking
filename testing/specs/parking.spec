@@ -2,6 +2,6 @@
 
 ## Applikation starten
 * Open Browser Application
-* Verifiziere, dass die Internetverbindung aktiv ist
-* Verifiziere, dass GPS aktiviert ist
-* Überprüfe, ob der Standort erfolgreich abgerufen werden kann
+* Verify that the Internet connection is active
+* Verify that GPS is activated
+* Check whether the location can be retrieved successfully

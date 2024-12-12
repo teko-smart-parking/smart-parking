@@ -93,14 +93,14 @@ step("Open Browser Application", async function() {
     await goto("https://localhost:5173");
 });
 
-step("Verifiziere, dass die Internetverbindung aktiv ist", async function() {
+step("Verify that the Internet connection is active", async function() {
     throw 'Unimplemented Step';
 });
 
-step("Verifiziere, dass GPS aktiviert ist", async function() {
+step("Verify that GPS is activated", async function() {
     throw 'Unimplemented Step';
 });
 
-step("Überprüfe, ob der Standort erfolgreich abgerufen werden kann", async function() {
+step("Check whether the location can be retrieved successfully", async function() {
     throw 'Unimplemented Step';
 });
