@@ -2,27 +2,31 @@
 
 ## Mögliche Wörter
 
-Benutzer und Fahrzeuge
-Benutzer: Einzelpersonen, die das Parksystem nutzen.
-Fahrzeug: Das Auto oder Motorrad des Benutzers.
-Fahrzeug-ID: Eindeutiger Identifikator für jedes Fahrzeug im System.
-2. Parkplätze und Einrichtungen
-Parkplatz: Ein einzelner Stellplatz für ein Fahrzeug.
-Parkplatz-ID: Eindeutiger Identifikator für jeden Parkplatz.
-Parkgarage: Eine Einrichtung mit mehreren Parkplätzen.
-Stockwerk: Die spezifische Ebene in einer Parkgarage.
-3. Buchung und Zahlung
-Reservierung: Der Prozess der vorherigen Buchung eines Parkplatzes.
-Reservierungs-ID: Eindeutiger Identifikator für jede Reservierung.
-Gebühr: Der Betrag, den der Benutzer für das Parken bezahlt.
-Zahlung: Der Prozess, bei dem der Benutzer für das Parken bezahlt.
-4. Systemoperationen
-Check-in: Der Prozess des Betretens eines Parkplatzes.
-Check-out: Der Prozess des Verlassens eines Parkplatzes.
-Benachrichtigung: Informationen, die an den Benutzer gesendet werden, wie Erinnerungen oder Warnungen.
-5. Verwaltung und Wartung
-Administrator: Personen, die das System verwalten und warten.
-Wartung: Der Prozess, um die Parkeinrichtungen in gutem Zustand zu halten.
-Fehlerbericht: Ein Bericht über Probleme oder Fehlfunktionen im System.
+### Benutzer und Fahrzeuge
+1. Benutzer: Einzelpersonen, die das Parksystem nutzen.
+2. Fahrzeug: Das Auto oder Motorrad des Benutzers.
+3.Fahrzeug-ID: Eindeutiger Identifikator für jedes Fahrzeug im System.
+
+
+### Parkplätze und Einrichtungen
+1. Parkplatz: Ein einzelner Stellplatz für ein Fahrzeug.
+2. Parkplatz-ID: Eindeutiger Identifikator für jeden Parkplatz.
+3. Parkgarage: Eine Einrichtung mit mehreren Parkplätzen.
+
+### Buchung und Zahlung
+1. Reservierung: Der Prozess der vorherigen Buchung eines Parkplatzes.
+2. Reservierungs-ID: Eindeutiger Identifikator für jede Reservierung.
+3. Gebühr: Der Betrag, den der Benutzer für das Parken bezahlt.
+4. Zahlung: Der Prozess, bei dem der Benutzer für das Parken bezahlt.
+
+###Systemoperationen
+1. Check-in: Der Prozess des Betretens eines Parkplatzes.
+2. Check-out: Der Prozess des Verlassens eines Parkplatzes.
+3. Benachrichtigung: Informationen, die an den Benutzer gesendet werden, wie Erinnerungen oder Warnungen.
+
+### Verwaltung und Wartung
+1. Administrator: Personen, die das System verwalten und warten.
+2. Wartung: Der Prozess, um die Parkeinrichtungen in gutem Zustand zu halten.
+3. Fehlerbericht: Ein Bericht über Probleme oder Fehlfunktionen im System.
 
 ## In welchem Zusamenhang
