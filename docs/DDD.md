@@ -24,3 +24,4 @@
 3. **Fehlerbericht**: Ein Bericht über Probleme oder Fehlfunktionen im System.
 
 ## In welchem Zusamenhang
+Die Begriffe haben in der gesammten Anwendung die selbe Bedeutung
