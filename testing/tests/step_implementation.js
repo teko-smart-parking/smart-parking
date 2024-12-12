@@ -89,15 +89,18 @@ step("Must have <table>", async function (table) {
     }
 });
 
-step("Öffne die Applikation", async function() {
-    throw 'Unimplemented Step';
+step("Open Browser Application", async function() {
+    await goto("https://localhost:5173");
 });
+
 step("Verifiziere, dass die Internetverbindung aktiv ist", async function() {
     throw 'Unimplemented Step';
 });
+
 step("Verifiziere, dass GPS aktiviert ist", async function() {
     throw 'Unimplemented Step';
 });
+
 step("Überprüfe, ob der Standort erfolgreich abgerufen werden kann", async function() {
     throw 'Unimplemented Step';
 });
