@@ -5,19 +5,13 @@
 ### Benutzer und Fahrzeuge
 1. Benutzer: Einzelpersonen, die das Parksystem nutzen.
 2. Fahrzeug: Das Auto oder Motorrad des Benutzers.
-3.Fahrzeug-ID: Eindeutiger Identifikator für jedes Fahrzeug im System.
+3. Fahrzeug-ID: Eindeutiger Identifikator für jedes Fahrzeug im System.
 
 
 ### Parkplätze und Einrichtungen
 1. Parkplatz: Ein einzelner Stellplatz für ein Fahrzeug.
 2. Parkplatz-ID: Eindeutiger Identifikator für jeden Parkplatz.
 3. Parkgarage: Eine Einrichtung mit mehreren Parkplätzen.
-
-### Buchung und Zahlung
-1. Reservierung: Der Prozess der vorherigen Buchung eines Parkplatzes.
-2. Reservierungs-ID: Eindeutiger Identifikator für jede Reservierung.
-3. Gebühr: Der Betrag, den der Benutzer für das Parken bezahlt.
-4. Zahlung: Der Prozess, bei dem der Benutzer für das Parken bezahlt.
 
 ### Systemoperationen
 1. Check-in: Der Prozess des Betretens eines Parkplatzes.
