@@ -94,6 +94,15 @@ step("Open Browser Application", async function() {
 });
 
 step("Verify that the Internet connection is active", async function() {
+    throw 'Unimplemented Step';
+});
+
+step("Verify that GPS is activated", async function() {
+    throw 'Unimplemented Step';
+});
+
+step("Check whether the location can be retrieved successfully", async function() {
+    throw 'Unimplemented Step';
     const isOnline = await evaluate(() => navigator.onLine);
     assert.ok(isOnline, "Internet connection is not active");
 });
