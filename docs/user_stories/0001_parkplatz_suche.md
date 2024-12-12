@@ -27,7 +27,7 @@ damit ich mein Auto bequem und stressfrei parken kann.
 - Der User bekommt eine notifikation, wenn der Parkplatz während dem hinfahren besetzt wird.
 - Der User bekommt automatisch den nächsten Parkplatz zu seinem alten Ziel.
 
-## Partplatz wegweisung abbrechen
+## Parkplatz-Wegweisung abbrechen
 - Der Benutzer klickt auf den Button "abbrechen"
 - Der ausgewählte Parkplatz wird deselektiert
 

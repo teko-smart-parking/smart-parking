@@ -1,6 +1,6 @@
 # Parking View
 
-## Applikation starten
+## Start application
 * Open Browser Application
 * Verify that the Internet connection is active
 * Verify that GPS is activated
