@@ -21,6 +21,7 @@ Wir entscheiden uns, React als Frontend-Framework für die Anwendung einzusetzen
 ### Positive Konsequenzen
 
 - React bietet eine breite Community und ausgereifte Tools.
+- Klare Struktur wie man einzelne Webseiten komponenten erstellt.
 
 ### Negative Konsequenzen
 
