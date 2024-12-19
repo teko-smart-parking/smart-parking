@@ -3,7 +3,7 @@ var router = express.Router();
 
 /* GET users listing. */
 router.get('/', function(req, res, next) {
-  res.send('respond with a resource');
+  res.render('api/index', { title: 'SMARP API - Overview' });
 });
 
 module.exports = router;
