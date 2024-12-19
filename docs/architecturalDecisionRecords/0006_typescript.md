@@ -31,4 +31,4 @@ Dies Betrifft Frontend und Backend Codes.
 
 ### Negative Konsequenzen
 
-- **Lernkurve:** Entwickler ohne TypeScript-Erfahrung benötigen Zeit für die Einarbeitung.
+- Entwickler ohne TypeScript-Erfahrung benötigen Zeit für die Einarbeitung.
