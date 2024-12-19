@@ -15,3 +15,10 @@ how to use:
 #### lint docs
 
 run this command `markdownlint docs/**/*.md`
+
+## testing with Gauge
+
+### install using npm
+
+`npm install -g @getgauge/cli`
+
