@@ -24,8 +24,8 @@ Leichtere Wartung und Erweiterung des Codes.
 
 ### Positive Konsequenzen
 
-- Front und Backend sind kompatibel und supporten Typescrip
+- Front und Backend sind kompatibel und supporten Typescript
 
 ### Negative Konsequenzen
 
-- Potenziell erhöhter initialer Lernaufwand für Entwickler, die mit Express.jsund Node.jsnicht vertraut sind.
+- Potenziell erhöhter initialer Lernaufwand für Entwickler, die mit Express.js und Node.js nicht vertraut sind.
