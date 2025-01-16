@@ -14,6 +14,9 @@ Die Smart-Parking-Applikation wird als Browserapplikation entwickelt.
 
 ## Konsequenzen
 
+Aus den oben genannten Entscheiden zu einer Browswerapplikation benötigen wir implizit eine Server / Client Architektur.
+Im Zusammenhang mit dieser Architektur benutzen wir Rest-API zur Kommunikation zwischen Server und Client.
+
 ### Positive Konsequenzen
 
 - Plattformunabhängigkeit: Die Applikation ist auf allen gängigen Browsern zugänglich.
