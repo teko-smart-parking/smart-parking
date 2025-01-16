@@ -1,0 +1,5 @@
+# Database Scheme
+
+| ID [Int] | Längengrad [double] | Breitengrad [double] | Status belegt [bool] |
+| -------- | ------------------- | -------------------- | -------------------- |
+| 1        |                     |                      |                      |
