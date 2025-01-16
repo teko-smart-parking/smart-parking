@@ -21,6 +21,8 @@ SQLite wird als Datenbank gewählt, basierend auf den folgenden Argumenten:
 - **Open Source**: SQLite ist unter einer liberalen Open-Source-Lizenz verfügbar, wodurch sie kostenfrei nutzbar ist und flexibel an spezifische Anforderungen angepasst werden kann.
 ## Konsequenzen
 - Simple Datenbank mit klaren Limitationen
+- Repository wird nur von 3 Personen gewartet
+
 ### Positive Konsequenzen
 - Da es auf SQL basiert haben wir ein guten Migrationspfad bei Bedarf auf grössere DB wie PostgreSQL
 - Sehr Ressourcenschonend (Nachhaltiges Programmieren)
