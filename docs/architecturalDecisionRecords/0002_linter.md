@@ -24,4 +24,3 @@ Negative Konsequenzen:
 
 - Erfordert eine initiale Konfiguration und Einarbeitung.
 - Entwickler müssen sicherstellen, dass der Linter in ihre Workflows integriert wird.
-

@@ -11,6 +11,7 @@ Im Rahmen der Softwarearchitektur besteht die Notwendigkeit, eine standardisiert
 ## Entscheidung
 
 Die Implementierung einer REST API wird beschlossen. Sie basiert auf den folgenden Prinzipien:
+
 - Nutzung von HTTP-Standards (GET, POST, PUT, DELETE).
 - Ressourcenorientiertes Design mit sinnvollen Endpunkten.
 - Rückgabe von Daten im JSON-Format.
@@ -20,11 +21,13 @@ Die Implementierung einer REST API wird beschlossen. Sie basiert auf den folgend
 ## Konsequenzen
 
 **Positive Konsequenzen:**
+
 - Standardisierte und leicht verständliche Schnittstelle für Entwickler.
 - Einfache Integration mit anderen Systemen und Anwendungen.
 - Hohe Skalierbarkeit und Flexibilität der API.
 
 **Negative Konsequenzen:**
+
 - Zusätzliche Anforderungen an die Dokumentation, um Nutzern den Einstieg zu erleichtern.
 - Risiko von Sicherheitslücken, wenn die API nicht sorgfältig abgesichert wird.
 - Abhängigkeit von einer stabilen Infrastruktur und Netzwerkverfügbarkeit.

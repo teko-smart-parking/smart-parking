@@ -34,5 +34,5 @@ Negative Konsequenzen:
 
 - Die Akzeptanz und Bereitschaft im Team, GitHub effektiv zu nutzen, ist entscheidend für den Erfolg.
 - Teammitglieder müssen sich mit den spezifischen Features von GitHub vertraut machen, einschließlich:
-   - Repository-Management (z. B. Klonen, Branches, Pull Requests)
-   - Einrichtung und Nutzung von GitHub Actions für CI/CD
+- Repository-Management (z. B. Klonen, Branches, Pull Requests)
+- Einrichtung und Nutzung von GitHub Actions für CI/CD
