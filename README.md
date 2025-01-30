@@ -14,7 +14,7 @@ how to use:
 
 #### lint docs
 
-run this command `markdownlint docs/**/*.md`
+run this command `markdownlint docs/**/*.md -c .markdownlint.json`
 
 ## testing with Gauge
 
