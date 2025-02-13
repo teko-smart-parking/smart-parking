@@ -1,0 +1,41 @@
+# ADR 0001: Entscheidung zur Verwendung von Typst für den Projektbericht
+
+## Status
+
+accepted
+
+## Kontext
+
+Im Rahmen der Dokumentation unseres Projekts benötigen wir ein
+Formatierungs- und Satzsystem, das eine hohe Flexibilität bei der Gestaltung bietet
+und gleichzeitig eine effiziente Bearbeitung ermöglicht.
+Bisher wurden Dokumente oft in LaTeX oder Markdown erstellt,
+wobei LaTeX eine steile Lernkurve hat und Markdown begrenzte Layout-Möglichkeiten bietet.
+Typst stellt eine moderne Alternative dar,
+die eine einfachere Syntax als LaTeX besitzt,
+jedoch ähnliche Möglichkeiten für typografisch anspruchsvolle Dokumente bietet.
+
+## Entscheidung
+
+Wir entscheiden uns für die Verwendung von Typst zur Erstellung des Projektberichts.
+Dies basiert auf den folgenden Gründen:
+
+- Typst bietet eine intuitivere Syntax als LaTeX.
+- Es ermöglicht eine schnelle Iteration und Vorschau von Dokumenten.
+- Die flexible Gestaltung erleichtert die Anpassung an spezifische Layout-Anforderungen.
+- Die moderne Toolchain vereinfacht die Zusammenarbeit im Team.
+
+## Konsequenzen
+
+### Positive Konsequenzen
+
+- Schnellere Einarbeitung für Teammitglieder im Vergleich zu LaTeX.
+- Effiziente Bearbeitung und Formatierung des Projektberichts.
+- Gute Wartbarkeit des Dokuments durch eine saubere und gut strukturierte Syntax.
+- Verbesserte Zusammenarbeit durch die Möglichkeit schneller Anpassungen.
+- Beitrag zu Innovation zu leisten.
+
+### Negative Konsequenzen
+
+- Typst hat eine kleinere Community als LaTeX, was die Verfügbarkeit von Vorlagen und Hilfestellungen einschränken kann.
+- Abhängigkeit von einem noch relativ jungen und sich entwickelnden System. (shiny)
