@@ -25,4 +25,4 @@ Wir entscheiden uns, React als Frontend-Framework für die Anwendung einzusetzen
 
 ### Negative Konsequenzen
 
-- Zusätzliche Lernkurve verglichen mit dem Einsatz von purem vanilla Javascript.
+- Zusätzliche Lernkurve verglichen mit dem Einsatz von purem vanilla JavaScript.
